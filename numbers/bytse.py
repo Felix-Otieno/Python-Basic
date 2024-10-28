@@ -1,0 +1,1 @@
+(24).to_bytes(3, byteorder='big')
